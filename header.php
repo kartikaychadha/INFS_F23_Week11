@@ -48,17 +48,3 @@
     </div>
   </nav>
   <!--Navigation Ends-->
-
- <form action="submit.html" method="GET">
-            <input type="text" name="firstName" value="First Name" disabled>
-            <input type="text" name="LastName">
-            <input type="color" name="colour">
-            <input type="month" name="month">
-            <input type="submit">
- </form>
-
-
-
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
-</body>
-</html>
